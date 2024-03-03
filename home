@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang=en><head><meta charset=utf-8>
+<meta http-equiv=x-ua-compatible content="ie=edge">
+<title>dlswife's digital garden</title>
+<link rel="icon" type="image/png" sizes="32x32" href="𓀠"/>
+<style>
+  /* Set margin for each side separately */
+  body {
+    margin-top: 400px;
+    margin-right: 500px;
+    margin-bottom: 200px;
+    margin-left: 500px;
+  }
+  body {
+			font-family: Lucida, sans-serif; /* set font to Arial or a sans-serif font */
+			font-size: 15px; /* set font size to 16 pixels */
+		}
+	body {
+			background-color: #fffdf3;
+	</style>
+	<style>
+body { background: #efefef; color: #0f0f0f }
+a:link { background: #efefef; color: #606060; text-decoration: none; }
+a:active { background: #efefef; color: #00FFFF; font-weight: bold; }
+a:hover { background: #efefef; color: #00FFFF; font-weight: bold; }
+a:visited { background: #efefef; color: #606060; text-decoration: line-through; }
+blockquote { font-family: sans-serif; font-size: medium; font-style: italic; }
+li { font-family: sans-serif; font-size: medium }
+p { font-family: sans-serif; font-size: medium }
+p.copyright { font-family: sans-serif; font-size: small }
+pre { color: #00FFFF; font-family: monospace; font-size: xx-large; text-align: center; }
+#div1 { float:left; padding: 2px; width:35% }
+#div2 { float:right; padding: 2px; width:35% }
+h1 { font-family: sans-serif; font-size: xx-large }
+h2 { font-family: sans-serif; font-size: x-large }
+h3 { font-family: sans-serif; font-size: large }
+h4 { font-family: sans-serif; font-size: medium }
+h5 { font-family: sans-serif; font-size: small }
+h6 { font-family: sans-serif; font-size: xx-small }
+</style>
+<body>
+<h1>dͩls͛wiͥfeͤ'́s͛ dͩiͥgiͥᴛⷮaͣl gaͣrͬdͩeͤn</h1>
+<a href="https://dlswife.neocities.org/">my cv</a><br>
+<a href="https://dlswife.neocities.org/readingarc">my reading archive</a><br>
+<a href="https://dlswife.neocities.org/archive">digital archive</a><br>
+<a href="https://dlswife.neocities.org/ideas">random thoughts/ideas</a><br>
+</body>
+</html>
